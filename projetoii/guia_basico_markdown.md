@@ -5,7 +5,7 @@
 Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de texto na web, utilizada em aplicativos como Slack e GitHub.
 
 ##### Comandos Markdown
->O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como <b>, <i> e <a href>, etc. Já os textos sem formatação entram como parágrafo simples <p>.
+> O Markdown funciona como um conversor de texto para HTML: os caracteres não-alfabéticos são traduzidos como < b>, < i> e < a href>, etc. Já os textos sem formatação entram como parágrafo simples < p>.
 
 **Titulação:** O símbolo usado para formatar um título em Markdown é a cequilha #. Na construção do título formate o código colocando uma cerquilha no inicio da linha, demarcando o cabeçalho.
 
@@ -23,7 +23,7 @@ Quando falamos de nível, falamos dos títulos convertidos para HTML. No HTML os
 
 **Imagens:** O código para inserir uma imagem no conteúdo é semelhante ao código de inserir links-âncora, adicionando um ponto de exclamação ! no início do código.
 
-**Citação (Quote):** Para transformar um texto em uma citação ou comentário, semelhante ao código HTML <blockquote>, utilize o sinal > no início da linha que será formatada.
+**Citação (Quote):** Para transformar um texto em uma citação ou comentário, semelhante ao código HTML < blockquote>, utilize o sinal > no início da linha que será formatada.
 
 **Código (Code Highlight):**
 1. Código em linha (inline): adicione um acento grave ˋ no início e no final do código.
