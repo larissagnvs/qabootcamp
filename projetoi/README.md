@@ -8,6 +8,6 @@ Para a entrega do projeto foram desenvolvidos um fluxo de gerencimento de projet
 
 ### Ferramentas utilizadas:
 
-*Jira* - Workflow, User Storys;
-*Zenphyr no Jira* - Plano, casos e execução de testes;
-*Miro* - Mindmap.
+1. **Jira** - Workflow, User Storys;
+2. **Zenphyr no Jira** - Plano, casos e execução de testes;
+3. **Miro**- Mindmap.
