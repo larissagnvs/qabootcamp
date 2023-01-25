@@ -10,4 +10,4 @@ Para a entrega do projeto foram desenvolvidos um fluxo de gerencimento de projet
 
 1. **Jira** - Workflow, User Storys;
 2. **Zenphyr no Jira** - Plano, casos e execução de testes;
-3. **Miro**- Mindmap.
+3. **Miro** - Mindmap.
