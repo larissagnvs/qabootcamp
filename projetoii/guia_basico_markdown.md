@@ -9,7 +9,7 @@ Markdown Syntax é uma sintaxe usada para padronizar e facilitar formatação de
 
 **Titulação:** O símbolo usado para formatar um título em Markdown é a cequilha #. Na construção do título formate o código colocando uma cerquilha no inicio da linha, demarcando o cabeçalho.
 
-Quando falamos de nível, falamos dos títulos convertidos para HTML. No HTML os níveis de títulos vão de 1 à 6, denotados pelas tags h1, h2, h3, h4, h5 e h6. A quantidade de cerquilhas que você utiliza no inicio da linha indica o nível do título, sendo assim, a formatação ### Meu título cria um cabeçalho de nível 3 e assim sucessivamente até o nível 6.
+Quando falamos de nível, falamos dos títulos convertidos para HTML. No HTML os níveis de títulos vão de 1 à 6, denotados pelas tags h1, h2, h3, h4, h5 e h6. A quantidade de cerquilhas que você utiliza no inicio da linha indica o nível do título, sendo assim, a formatação ### Meu título cria um cabeçalho de nível 3, e assim sucessivamente, até o nível 6.
 
 **Ênfase:**
 1. Negrito: adicione dois asteriscos ** texto ** ou dois traços-baixos __ texto __ no início e no fim do conteúdo.
